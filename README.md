@@ -1,0 +1,2 @@
+# assets-imkhsm
+static assets
